@@ -9,4 +9,5 @@ I am originally from Mississippi. I enjoy cooking and baking. I also enjoy a goo
 For my dissertation, I had to teach myself Python. I also work HTML5 at my job. Beyond that, I know very little
 
 ## Career Goals
-I'd like to improve my skills for my current job and possibly gain the skills to become a fullstack developer.
+1. Improve my skills for my current job.
+2. Gain the skills to become a full stack developer.
